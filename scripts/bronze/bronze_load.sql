@@ -30,7 +30,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
@@ -44,7 +43,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
@@ -58,7 +56,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
@@ -72,7 +69,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
@@ -86,7 +82,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
@@ -100,7 +95,6 @@ BEGIN
         WITH (
             FIRSTROW = 2,
             FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '0x0A',
             TABLOCK
         );
 
